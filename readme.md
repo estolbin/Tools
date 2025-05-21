@@ -23,3 +23,7 @@ Params:
 -B 2 - outputs the current month and the specified number of months afterwards
 
 Week starts on Monday, output in Russian language
+
+# Install
+
+Place files in the folder specified in path
